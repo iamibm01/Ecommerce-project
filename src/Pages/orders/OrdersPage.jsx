@@ -1,5 +1,5 @@
-import { Header } from '../components/Header'
-import { formatMoney } from '../utils/money'
+import { Header } from '../../components/Header'
+import { formatMoney } from '../../utils/money'
 import dayjs from 'dayjs'
 import axios from 'axios'
 import { useState, useEffect, Fragment } from 'react'
